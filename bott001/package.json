@@ -11,5 +11,8 @@
     "start": "bottr-cli start"
   },
   "author": "Daniel Lim",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "yarn": "^0.16.1"
+  }
 }
